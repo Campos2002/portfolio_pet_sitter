@@ -18,7 +18,7 @@
     overflow: hidden;
     transform: rotate(10deg);
     transition: var(--transition);
-    border: solid 5px var(--color-primary-variant);
+    border: solid 2px var(--color-primary-variant);
 }
 
 .about__me-image:hover {

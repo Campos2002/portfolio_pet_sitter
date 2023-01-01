@@ -10,13 +10,13 @@ const Header = () => {
 
         <div className="container header__container">
 
-          <div className="logo">
+          {/* <div className="logo">
             <img src={LOGO} alt="me" />
-          </div>
+          </div> */}
 
-          {/* <h5>Olá! Eu sou</h5>
-          <h1>Flavia Degania</h1> */}
-          {/* <h5 className="text-light">Pet Sitter e Aux. Veterinária</h5> */}
+          <h5>Olá! Eu sou</h5>
+          <h1>Flavia Degani</h1>
+          <h5 className="text-light">Pet Sitter & Comportamentalista Felina</h5>
           <CTA />
           <div className="me">
             <img src={ME} alt="me" />
