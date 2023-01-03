@@ -7,7 +7,7 @@ import { BsLinkedin } from 'react-icons/bs'
 const Footer = () => {
   return (
     <footer>
-      <a href="#footer" className='footer__logo'>GUILHERME CAMPOS</a>
+      <a href="#footer" className='footer__logo'>FLAVIA DEGANI</a>
 
       <ul className='permalinks'>
         <li><a href="#home">Home</a></li>
