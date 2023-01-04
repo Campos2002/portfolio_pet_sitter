@@ -10,7 +10,7 @@ const about = () => {
 
     <section id='about'>
 
-      <h5>Profissional e Aprendizagem</h5>
+      <h5>Profissional</h5>
       <h2>Sobre</h2>
 
       <div className="container about__container">

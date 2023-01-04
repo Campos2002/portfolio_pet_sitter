@@ -1,5 +1,6 @@
 import React from 'react'
 import './footer.css'
+import LOGO from '../../assets/footer-logo.png'
 import { FaFacebookF } from 'react-icons/fa'
 import { FiInstagram } from 'react-icons/fi'
 import { BsLinkedin } from 'react-icons/bs'
@@ -7,7 +8,8 @@ import { BsLinkedin } from 'react-icons/bs'
 const Footer = () => {
   return (
     <footer>
-      <a href="#footer" className='footer__logo'>FLAVIA DEGANI</a>
+      {/* <a href="#footer" className='footer__logo'>FLAVIA DEGANI</a> */}
+      <img src={LOGO} alt="" className='footer__logo' />
 
       <ul className='permalinks'>
         <li><a href="#home">Home</a></li>

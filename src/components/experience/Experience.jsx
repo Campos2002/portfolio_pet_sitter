@@ -7,13 +7,13 @@ const Experience = () => {
   return (
     <section id='experience'>
 
-      <h5>Tecnologias</h5>
-      <h2>Experiência</h2>
+      <h5>Especialidades</h5>
+      <h2>Serviços</h2>
 
       {/* Inicio do Frontend */}
       <div className="container experience__container">
         <div>
-          <h3>Front-end Development</h3>
+          <h3>Pet Sitter</h3>
           <div className="experience__content">
             <artcile className='experience__details'>
               <BsPatchCheckFill className='experience__details-icon' />
@@ -55,7 +55,7 @@ const Experience = () => {
 
         {/* Início do Backend */}
         <div>
-          <h3>Backend Development</h3>
+          <h3>Comportamentalista Felina</h3>
           <article className="experience__content__backend">
             <GiProgression className='experience__details-icon-progress' />
             <div>

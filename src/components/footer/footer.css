@@ -15,11 +15,8 @@ footer a:hover {
 }
 
 .footer__logo {
-    font-size: 2rem;
-    font-weight: 500;
-    margin-bottom: 2rem;
-    display: inline-block;
-    color: var(--color-bg);
+    width: 25rem;
+    margin: 0 auto 2rem;
 }
 
 .footer__logo:hover {
