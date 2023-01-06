@@ -1,7 +1,6 @@
 import './header.css'
 import CTA from '../header/CTA'
 import ME from '../../assets/me.png'
-import LOGO from '../../assets/logo2.png'
 
 const Header = () => {
   return (
