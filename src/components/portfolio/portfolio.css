@@ -6,12 +6,11 @@
 
 .portfolio__container h3 {
     text-align: center;
-    padding-top: 1rem;
 }
 
 .portfolio__item {
     background: var(--color-bg-variant);
-    padding: 1.3rem;
+    padding: 1.5rem;
     border-radius: 1.5rem;
     border: 1px solid transparent;
     transition: var(--transition);
@@ -28,7 +27,7 @@
 }
 
 .portfolio__item h3 {
-    margin: 1.2rem 0 2rem;
+    margin: 1.2rem 0 0.5rem;
 }
 
 .portfolio__item-cta {
@@ -54,5 +53,9 @@
     .portfolio__container {
         grid-template-columns: 1fr;
         gap: 1rem;
+    }
+
+    .portfolio__item {
+        padding: 0.8rem;
     }
 }

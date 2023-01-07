@@ -1,44 +1,44 @@
-import IMG1 from '../../assets/guilherme/portfolio1.png'
-import IMG2 from '../../assets/guilherme/portfolio2.png'
-import IMG3 from '../../assets/guilherme/portfolio3.png'
-import IMG4 from '../../assets/guilherme/portfolio4.png'
-import IMG5 from '../../assets/guilherme/portfolio5.png'
-import IMG6 from '../../assets/guilherme/portfolio6.png'
+import IMG1 from '../../assets/clientes/arthur.jpg'
+import IMG2 from '../../assets/clientes/filo.jpg'
+import IMG3 from '../../assets/clientes/tapioca.jpg'
+import IMG4 from '../../assets/clientes/maggie.jpg'
+import IMG5 from '../../assets/clientes/pandora.jpg'
+import IMG6 from '../../assets/clientes/ruivo.jpg'
 
 const data = [
   {
     image: IMG1,
-    title: 'Secrete Word',
+    title: 'Arthur',
     github: 'https://github.com/Campos2002/secret-word-game',
     demo: 'https://campos2002.github.io/secret-word-game/'
   },
   {
     image: IMG2,
-    title: 'BMI Calculator',
+    title: 'Filó',
     github: 'https://github.com/Campos2002/calc_de_IMC',
     demo: 'https://campos2002.github.io/calc_de_IMC/'
   },
   {
     image: IMG3,
-    title: 'Bank Landing Page',
+    title: 'Tapioca',
     github: 'https://github.com/Campos2002/Virtual-Bank-Landing-Page',
     demo: 'https://campos2002.github.io/Virtual-Bank-Landing-Page/'
   },
   {
     image: IMG4,
-    title: 'Netflix Hompage Clone',
+    title: 'Maggie',
     github: 'https://github.com/Campos2002/Clone-Netflix-Landing-Page',
     demo: 'https://campos2002.github.io/Clone-Netflix-Landing-Page/'
   },
   {
     image: IMG5,
-    title: 'Spotify Homepage Clone',
+    title: 'Pandora',
     github: 'https://github.com/Campos2002/Clone-Spotify-Landing-Page',
     demo: 'https://campos2002.github.io/Clone-Spotify-Landing-Page/'
   },
   {
     image: IMG6,
-    title: 'Museum Website',
+    title: 'Ruivo',
     github: 'https://github.com/Campos2002/Museum-Website-Project',
     demo: 'https://campos2002.github.io/Museum-Website-Project/'
   },

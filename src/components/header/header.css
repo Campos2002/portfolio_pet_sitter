@@ -10,6 +10,14 @@ header {
     position: relative;
 }
 
+.header__logo {
+    height: 8rem;
+    width: auto;
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
 /* CTA --------------------------- */
 
 .cta {
@@ -51,6 +59,7 @@ header {
     border-radius: 11rem 11rem 0 0;
     overflow: hidden;
     padding: 1rem 1rem 1rem 1rem;
+    margin-top: 13rem;
 }
 
 /* IMAGEM ME --------------------- */
@@ -105,5 +114,13 @@ header {
 
     .logo {
         width: 20rem;
+    }
+
+    .header__logo {
+        height: 4.3rem;
+    }
+
+    .me {
+        margin-top: 10rem;
     }
 }

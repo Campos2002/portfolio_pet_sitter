@@ -8,14 +8,13 @@ import { BsLinkedin } from 'react-icons/bs'
 const Footer = () => {
   return (
     <footer>
-      {/* <a href="#footer" className='footer__logo'>FLAVIA DEGANI</a> */}
       <img src={LOGO} alt="" className='footer__logo' />
 
       <ul className='permalinks'>
         <li><a href="#home">Home</a></li>
         <li><a href="#about">Sobre</a></li>
-        <li><a href="#experience">Experiência</a></li>
-        <li><a href="#portfolio">Portfólio</a></li>
+        <li><a href="#experience">Serviços</a></li>
+        <li><a href="#portfolio">Clientes</a></li>
         <li><a href="#testimonials">Depoimentos</a></li>
         <li><a href="#contact">Contato</a></li>
       </ul>

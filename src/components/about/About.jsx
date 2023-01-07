@@ -28,19 +28,19 @@ const about = () => {
             <article className='about__card'>
               <FaAward className='about__icon' />
               <h5>Clientes Satisfeitos</h5>
-              <small>1+ Ano de Estudos</small>
+              <small>30+ Clientes</small>
             </article>
 
             <article className='about__card'>
               <FaUniversity className='about__icon' />
               <h5>Superior</h5>
-              <small>Graduando em Ciência da Computação</small>
+              <small>Graduanda em Ciências Biológicas</small>
             </article>
 
             <article className='about__card'>
               <MdPets className='about__icon' />
               <h5>Atendimentos</h5>
-              <small>15+ Completos</small>
+              <small>500+ Completos</small>
             </article>
 
           </div>

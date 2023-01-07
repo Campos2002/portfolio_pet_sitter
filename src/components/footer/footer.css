@@ -70,4 +70,8 @@ footer a:hover {
     .footer__socials {
         margin-bottom: 5rem;
     }
+
+    .footer__logo {
+        width: 20rem;
+    }
 }
