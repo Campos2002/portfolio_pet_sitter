@@ -28,7 +28,7 @@ const about = () => {
             <article className='about__card'>
               <FaAward className='about__icon' />
               <h5>Clientes Satisfeitos</h5>
-              <small>30+ Clientes</small>
+              <small>50+ Clientes</small>
             </article>
 
             <article className='about__card'>
@@ -40,7 +40,7 @@ const about = () => {
             <article className='about__card'>
               <MdPets className='about__icon' />
               <h5>Atendimentos</h5>
-              <small>500+ Completos</small>
+              <small>600+ Completos</small>
             </article>
 
           </div>
