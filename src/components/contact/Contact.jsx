@@ -20,6 +20,7 @@ const Contact = () => {
       <h2>Contato</h2>
       <div className="container contact__container">
         {/* Contact Options */}
+        {/* Contact Options */}
         <div className="contact__options">
           <article className="contact__option">
             <MdOutlineEmail className='contact__option-icon' />
