@@ -30,12 +30,6 @@
     margin: 1.2rem 0 0.5rem;
 }
 
-.portfolio__item-cta {
-    display: flex;
-    gap: 1rem;
-    margin-bottom: 1rem;
-}
-
 /* Media Queries ---------------------------- */
 
 /* Medium Devices */

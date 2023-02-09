@@ -1,70 +1,71 @@
 import React from 'react'
 import './experience.css'
 import { BsPatchCheckFill } from 'react-icons/bs'
-import { GiProgression } from 'react-icons/gi'
 
 const Experience = () => {
   return (
     <section id='experience'>
 
       <h5>Especialidades</h5>
-      <h2>Serviços</h2>
+      <h2>Certificados</h2>
 
       {/* Inicio do Frontend */}
       <div className="container experience__container">
-        <div>
-          <h3>Pet Sitter</h3>
-          <div className="experience__content">
-            <artcile className='experience__details'>
-              <BsPatchCheckFill className='experience__details-icon' />
-              <div>
-                <h4>HTML</h4>
-                <small className='text-light'>Experiente</small>
-              </div>
-            </artcile>
-            <article className='experience__details'>
-              <BsPatchCheckFill className='experience__details-icon' />
-              <div>
-                <h4>CSS</h4>
-                <small className='text-light'>Intermediário</small>
-              </div>
-            </article>
-            <article className='experience__details'>
-              <BsPatchCheckFill className='experience__details-icon' />
-              <div>
-                <h4>JavaScript</h4>
-                <small className='text-light'>Intermediário</small>
-              </div>
-            </article>
-            <article className='experience__details'>
-              <BsPatchCheckFill className='experience__details-icon' />
-              <div>
-                <h4>React</h4>
-                <small className='text-light'>Intermediário</small>
-              </div>
-            </article>
-            <article className='experience__details'>
-              <BsPatchCheckFill className='experience__details-icon' />
-              <div>
-                <h4>Git</h4>
-                <small className='text-light'>Intermediário</small>
-              </div>
-            </article>
-          </div>
-        </div>
 
-        {/* Início do Backend */}
-        <div>
-          <h3>Comportamentalista Felina</h3>
-          <article className="experience__content__backend">
-            <GiProgression className='experience__details-icon-progress' />
+        <div className="experience__content">
+
+          <artcile className='experience__details'>
+            <BsPatchCheckFill className='experience__details-icon' />
             <div>
-              <h4>Em desenvolvimento</h4>
+              <h4>Análise Comportamental<br />de Felinos Domésticos</h4>
+              <small className='text-light'>Valéria Zukauskas - Gatos no Divã</small>
+            </div>
+          </artcile>
+
+          <article className='experience__details'>
+            <BsPatchCheckFill className='experience__details-icon' />
+            <div>
+              <h4>Pet Sitter e Dog Walker</h4>
+              <small className='text-light'>PetAnjo</small>
             </div>
           </article>
+
+          <article className='experience__details'>
+            <BsPatchCheckFill className='experience__details-icon' />
+            <div>
+              <h4>Auxiliar Veterinária</h4>
+              <small className='text-light'>Paixão Treinamentos</small>
+            </div>
+          </article>
+
+          <article className='experience__details'>
+            <BsPatchCheckFill className='experience__details-icon' />
+            <div>
+              <h4>Cat Sitter Profissional</h4>
+              <small className='text-light'>Cat Sitter de Sucesso</small>
+            </div>
+          </article>
+
+          <article className='experience__details'>
+            <BsPatchCheckFill className='experience__details-icon' />
+            <div>
+              <h4>Socorrista Pet</h4>
+              <small className='text-light'>Smart Centro de Ensino Pet</small>
+            </div>
+          </article>
+
+          <article className='experience__details'>
+            <BsPatchCheckFill className='experience__details-icon' />
+            <div>
+              <h4>Como Cuidar de Gatos</h4>
+              <small className='text-light'>Alexandre Rossi</small>
+            </div>
+          </article>
+
         </div>
 
       </div>
+
     </section>
   )
 }

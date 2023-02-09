@@ -20,7 +20,6 @@ const Contact = () => {
       <h2>Contato</h2>
       <div className="container contact__container">
         {/* Contact Options */}
-        {/* Contact Options */}
         <div className="contact__options">
           <article className="contact__option">
             <MdOutlineEmail className='contact__option-icon' />
@@ -39,7 +38,7 @@ const Contact = () => {
           <article className="contact__option">
             <BsWhatsapp className='contact__option-icon' />
             <h4>WhatsApp</h4>
-            <a href="https://api.whatsapp.com/send?phone=5521994008518" target="_blank" rel="noreferrer">Vamos conversar!</a>
+            <a href="https://wa.me/message/6P2BIIISZB3WH1" target="_blank" rel="noreferrer">Vamos conversar!</a>
           </article>
         </div>
         {/* Form */}
