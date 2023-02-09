@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio_pet_sitter/static/css/main.76c32b2f.css",
-    "main.js": "/portfolio_pet_sitter/static/js/main.26a7f584.js",
+    "main.css": "/portfolio_pet_sitter/static/css/main.86a4d6ed.css",
+    "main.js": "/portfolio_pet_sitter/static/js/main.94dce8be.js",
     "static/media/me4.png": "/portfolio_pet_sitter/static/media/me4.722efed1ae78ee1d6a4f.png",
     "static/media/me.png": "/portfolio_pet_sitter/static/media/me.c2b356a9d7fafc8bdbce.png",
     "static/media/pandora.jpg": "/portfolio_pet_sitter/static/media/pandora.fce11f88b63438af28c3.jpg",
@@ -13,11 +13,11 @@
     "static/media/logo.png": "/portfolio_pet_sitter/static/media/logo.0be9f6ec0e3a6217bf5f.png",
     "static/media/footer-logo.png": "/portfolio_pet_sitter/static/media/footer-logo.36f1aa0713f95e68636d.png",
     "index.html": "/portfolio_pet_sitter/index.html",
-    "main.76c32b2f.css.map": "/portfolio_pet_sitter/static/css/main.76c32b2f.css.map",
-    "main.26a7f584.js.map": "/portfolio_pet_sitter/static/js/main.26a7f584.js.map"
+    "main.86a4d6ed.css.map": "/portfolio_pet_sitter/static/css/main.86a4d6ed.css.map",
+    "main.94dce8be.js.map": "/portfolio_pet_sitter/static/js/main.94dce8be.js.map"
   },
   "entrypoints": [
-    "static/css/main.76c32b2f.css",
-    "static/js/main.26a7f584.js"
+    "static/css/main.86a4d6ed.css",
+    "static/js/main.94dce8be.js"
   ]
 }
