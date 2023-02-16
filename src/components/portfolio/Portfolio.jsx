@@ -9,7 +9,6 @@ const Portfolio = () => {
       <h5>Meus super satisfeitos</h5>
       <h2>Clientinhos <MdPets /></h2>
 
-
       <div className="container portfolio__container">
         {
           data.map(({ image, title }, index) => (
