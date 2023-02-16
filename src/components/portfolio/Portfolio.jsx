@@ -1,6 +1,6 @@
 import React from 'react'
 import './portfolio.css'
-import data from '../portfolio/data'
+import data from '../portfolio/data.js'
 import { MdPets } from 'react-icons/md'
 
 const Portfolio = () => {

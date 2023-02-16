@@ -8,39 +8,35 @@ import IMG6 from '../../assets/clientes/ruivo.jpg'
 const data = [
   {
     image: IMG1,
-    title: 'Arthur',
-    github: 'https://github.com/Campos2002/secret-word-game',
-    demo: 'https://campos2002.github.io/secret-word-game/'
-  },
-  {
-    image: IMG2,
-    title: 'Filó',
-    github: 'https://github.com/Campos2002/calc_de_IMC',
-    demo: 'https://campos2002.github.io/calc_de_IMC/'
-  },
-  {
-    image: IMG3,
-    title: 'Tapioca',
-    github: 'https://github.com/Campos2002/Virtual-Bank-Landing-Page',
-    demo: 'https://campos2002.github.io/Virtual-Bank-Landing-Page/'
-  },
-  {
-    image: IMG4,
-    title: 'Maggie',
-    github: 'https://github.com/Campos2002/Clone-Netflix-Landing-Page',
-    demo: 'https://campos2002.github.io/Clone-Netflix-Landing-Page/'
+    title: 'Arthur'
   },
   {
     image: IMG5,
-    title: 'Pandora',
-    github: 'https://github.com/Campos2002/Clone-Spotify-Landing-Page',
-    demo: 'https://campos2002.github.io/Clone-Spotify-Landing-Page/'
+    title: 'Pandora'
   },
   {
     image: IMG6,
-    title: 'Ruivo',
-    github: 'https://github.com/Campos2002/Museum-Website-Project',
-    demo: 'https://campos2002.github.io/Museum-Website-Project/'
+    title: 'Ruivo'
+  },
+  {
+    image: IMG2,
+    title: 'Filó'
+  },
+  {
+    image: IMG3,
+    title: 'Tapioca'
+  },
+  {
+    image: IMG4,
+    title: 'Maggie'
+  },
+  {
+    image: IMG5,
+    title: 'Pandora'
+  },
+  {
+    image: IMG6,
+    title: 'Ruivo'
   },
 ];
 
