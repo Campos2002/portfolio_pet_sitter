@@ -2,6 +2,7 @@ import AVTR1 from '../../assets/avatar1.jpg'
 import AVTR2 from '../../assets/avatar2.jpg'
 import AVTR3 from '../../assets/avatar3.jpg'
 import AVTR4 from '../../assets/avatar4.jpg'
+import zely from '../../assets/tutores/zely.jpg'
 
 const data = [
   {
@@ -30,7 +31,7 @@ const data = [
     clientReview: '“Pense numa profissional Competente, dedicada, engajada, paciente, versátil, sempre disposta a encontrar soluções práticas e aplicáveis, que busca sempre se atualizar e aprimorar os seus conhecimentos na área que atua é que surpreende a cada visita que faz aos meus filhos (pets Dogs). Não obstante que Lola, Ruivo e Rosa são extremamente apaixonados por ela. O seu trabalho traz segurança, tranquilidade e qualidade, além de oferecer preço justo! Hiper confio e indico a Flavia Degani.”'
   },
   {
-    image: AVTR4,
+    image: zely,
     clientName: 'Zely Pereira',
     clientReview: '“A melhor enfermeira Veterinária do Brasil. Meu gato fez uma insuficiência renal aguda, teve alta com tratamento quase que semi intensivo domiciliar,  tive a felicidade de conhecê-la na primeira internação, antes da clínica para tratamento de diálise, e foi a primeira coisa que avaliei: eu não tenho técnica e emocional para lidar com uma situação desta. Entrei em contato para um trabalho de 10 dias, para realizar vários procedimentos prescritos. A qualidade técnica, responsabilidade com horários, carinho; não tenho como mensurar. Meu gato melhorou clinicamente, e percebo que minimizamos muito o stress, que poderia piorar mais sua saúde, com doses grandes de carinho e amor. Recomendo mil estrelas para este anjo.”'
   },

@@ -1,5 +1,5 @@
 import './header.css'
-import ME from '../../assets/me.png'
+import ME from '../../assets/topo.png'
 import LOGO from '../../assets/logo.png'
 
 const Header = () => {
