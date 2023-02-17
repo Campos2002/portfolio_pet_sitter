@@ -11,39 +11,18 @@ header {
 }
 
 .header__logo {
-    height: 8rem;
     width: auto;
     position: absolute;
     left: 50%;
     transform: translateX(-50%);
+    /* background-color: black; */
 }
 
-/* CTA --------------------------- */
-
-.cta {
-    margin-top: 2.5rem;
-    display: flex;
-    gap: 1.2rem;
-    justify-content: center;
-}
-
-.cta a:hover {
-    background: var(--color-primary-variant);
-    font-weight: 500;
-    border: none;
-    color: var(--color-bg-variant);
-}
-
-/* SOCIALS ----------------------- */
-
-.header__socials {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    gap: 0.8rem;
-    position: absolute;
-    left: 0;
-    bottom: 3rem;
+.header__logo img {
+    width: 35rem;
+    position: relative;
+    bottom: 13rem;
+    left: 0.5rem;
 }
 
 /* IMAGEM ME --------------------- */
@@ -63,18 +42,6 @@ header {
 
 .me img {
     margin-top: 5rem;
-}
-
-/* IMAGEM ME --------------------- */
-
-.logo {
-    width: 27rem;
-    position: relative;
-    left: 50%;
-    transform: translateX(-50%);
-    /* margin-top: 4rem; */
-    overflow: hidden;
-    padding: 1rem 1rem 1rem 1rem;
 }
 
 /* SCROLL DOWN ------------------- */
@@ -105,22 +72,14 @@ header {
         height: 100vh;
     }
 
-    .header__socials,
     .scroll__down {
         display: none;
     }
 
-    .cta>a {
-        font-size: 11px;
-        padding: 10px;
-    }
+    .header__logo img {
+        width: 22rem;
+        bottom: 9rem;
 
-    .logo {
-        width: 20rem;
-    }
-
-    .header__logo {
-        height: 4.3rem;
     }
 
     .me {
