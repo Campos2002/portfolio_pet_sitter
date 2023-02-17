@@ -1,23 +1,26 @@
 {
   "files": {
-    "main.css": "/portfolio_pet_sitter/static/css/main.be5f464d.css",
-    "main.js": "/portfolio_pet_sitter/static/js/main.98db442a.js",
+    "main.css": "/portfolio_pet_sitter/static/css/main.f9c9acf3.css",
+    "main.js": "/portfolio_pet_sitter/static/js/main.2c421f4e.js",
     "static/media/me4.png": "/portfolio_pet_sitter/static/media/me4.722efed1ae78ee1d6a4f.png",
-    "static/media/me.png": "/portfolio_pet_sitter/static/media/me.c2b356a9d7fafc8bdbce.png",
-    "static/media/pandora.jpg": "/portfolio_pet_sitter/static/media/pandora.fce11f88b63438af28c3.jpg",
-    "static/media/maggie.jpg": "/portfolio_pet_sitter/static/media/maggie.c482d5ca124f8c260942.jpg",
-    "static/media/ruivo.jpg": "/portfolio_pet_sitter/static/media/ruivo.02f5abd9cec67ca0c447.jpg",
-    "static/media/arthur.jpg": "/portfolio_pet_sitter/static/media/arthur.db06ab8cd4349d4ce4de.jpg",
-    "static/media/filo.jpg": "/portfolio_pet_sitter/static/media/filo.ceb75ec70ddfaab3573c.jpg",
-    "static/media/tapioca.jpg": "/portfolio_pet_sitter/static/media/tapioca.02667a6493789f9eef01.jpg",
+    "static/media/topo.png": "/portfolio_pet_sitter/static/media/topo.1cbf37cb9706556ab873.png",
     "static/media/logo.png": "/portfolio_pet_sitter/static/media/logo.0be9f6ec0e3a6217bf5f.png",
+    "static/media/filo.jpg": "/portfolio_pet_sitter/static/media/filo.6a41b2fdbcbe17abb7be.jpg",
+    "static/media/pandora.jpg": "/portfolio_pet_sitter/static/media/pandora.4b1a69db5317d82e8242.jpg",
+    "static/media/ruivo.jpg": "/portfolio_pet_sitter/static/media/ruivo.87621060d587c04b2813.jpg",
     "static/media/footer-logo.png": "/portfolio_pet_sitter/static/media/footer-logo.36f1aa0713f95e68636d.png",
+    "static/media/maggie.jpg": "/portfolio_pet_sitter/static/media/maggie.deef7f4f5f119c731cd0.jpg",
+    "static/media/ragnar.jpg": "/portfolio_pet_sitter/static/media/ragnar.0811bea8a3075068c7a7.jpg",
+    "static/media/meg.jpg": "/portfolio_pet_sitter/static/media/meg.257c741c7eed8a2cc2e9.jpg",
+    "static/media/arthur.jpg": "/portfolio_pet_sitter/static/media/arthur.635e78faf684b5162e02.jpg",
+    "static/media/tapioca.jpg": "/portfolio_pet_sitter/static/media/tapioca.1b097b5db32d55c2f68b.jpg",
+    "static/media/zely.jpg": "/portfolio_pet_sitter/static/media/zely.20f57c38f8eadb5fdb09.jpg",
     "index.html": "/portfolio_pet_sitter/index.html",
-    "main.be5f464d.css.map": "/portfolio_pet_sitter/static/css/main.be5f464d.css.map",
-    "main.98db442a.js.map": "/portfolio_pet_sitter/static/js/main.98db442a.js.map"
+    "main.f9c9acf3.css.map": "/portfolio_pet_sitter/static/css/main.f9c9acf3.css.map",
+    "main.2c421f4e.js.map": "/portfolio_pet_sitter/static/js/main.2c421f4e.js.map"
   },
   "entrypoints": [
-    "static/css/main.be5f464d.css",
-    "static/js/main.98db442a.js"
+    "static/css/main.f9c9acf3.css",
+    "static/js/main.2c421f4e.js"
   ]
 }
