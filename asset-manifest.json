@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio_pet_sitter/static/css/main.f9c9acf3.css",
-    "main.js": "/portfolio_pet_sitter/static/js/main.408434ad.js",
+    "main.js": "/portfolio_pet_sitter/static/js/main.3872ae02.js",
     "static/media/me4.png": "/portfolio_pet_sitter/static/media/me4.722efed1ae78ee1d6a4f.png",
     "static/media/topo.png": "/portfolio_pet_sitter/static/media/topo.1cbf37cb9706556ab873.png",
     "static/media/logo.png": "/portfolio_pet_sitter/static/media/logo.0be9f6ec0e3a6217bf5f.png",
@@ -17,10 +17,10 @@
     "static/media/zely.jpg": "/portfolio_pet_sitter/static/media/zely.20f57c38f8eadb5fdb09.jpg",
     "index.html": "/portfolio_pet_sitter/index.html",
     "main.f9c9acf3.css.map": "/portfolio_pet_sitter/static/css/main.f9c9acf3.css.map",
-    "main.408434ad.js.map": "/portfolio_pet_sitter/static/js/main.408434ad.js.map"
+    "main.3872ae02.js.map": "/portfolio_pet_sitter/static/js/main.3872ae02.js.map"
   },
   "entrypoints": [
     "static/css/main.f9c9acf3.css",
-    "static/js/main.408434ad.js"
+    "static/js/main.3872ae02.js"
   ]
 }
