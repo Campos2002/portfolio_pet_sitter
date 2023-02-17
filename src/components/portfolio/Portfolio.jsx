@@ -6,7 +6,7 @@ import { MdPets } from 'react-icons/md'
 const Portfolio = () => {
   return (
     <section id='portfolio'>
-      <h5>Meus super satisfeitos</h5>
+      <h5>Alguns super satisfeitos</h5>
       <h2>Clientinhos <MdPets /></h2>
 
       <div className="container portfolio__container">
