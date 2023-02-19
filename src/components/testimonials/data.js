@@ -1,10 +1,11 @@
-import ellis from '../../assets/tutores/ellis_balmas.jpg'
-import thaise from '../../assets/tutores/thaise_ferreira.jpg'
-import ivy from '../../assets/tutores/ivy_amaral.jpg'
-import zely from '../../assets/tutores/zely.jpg'
-import eliana from '../../assets/tutores/eliana_conceicao.jpg'
-import jordana from '../../assets/tutores/jordana_justino.jpg'
-import flavia from '../../assets/tutores/flavia_silveira.jpg'
+import ellis from '../../assets/tutores/ellis_balmas.jpg';
+import thaise from '../../assets/tutores/thaise_ferreira.jpg';
+import ivy from '../../assets/tutores/ivy_amaral.jpg';
+import zely from '../../assets/tutores/zely.jpg';
+import eliana from '../../assets/tutores/eliana_conceicao.jpg';
+import jordana from '../../assets/tutores/jordana_justino.jpg';
+import flavia from '../../assets/tutores/flavia_silveira.jpg';
+import vanessa from '../../assets/tutores/vanessa_geier.jpg';
 
 const data = [
   {
@@ -41,6 +42,11 @@ const data = [
     image: flavia,
     clientName: 'Flávia Silveira',
     clientReview: '“Ter o serviço de excelência da Flavia é um privilégio. Profissional competente, carinhosa, dedicada e extremamente responsável. Quer viajar e não há possibilidade de levar seus filhos de quatro patas? É só deixá-los aos cuidados da Flavia e sair despreocupado. Muito obrigada por seu carinho e dedicação aos meus bigodudos. Você é 10!”'
+  },
+  {
+    image: vanessa,
+    clientName: 'Vanessa Geier',
+    clientReview: '“Flavia é incrível! Extremamente profissional do início ao fim. Anota todas as informações necessárias e envia relatórios diários. Seu trabalho traz muita segurança, além de ser carinhosa e atenciosa demais com os nossos mascotes. Tenho dois gatinhos e fiquei super tranquila durante a minha viagem. Flavia tem muito conhecimento sobre comportamento animal, além disso é enfermeira (excelente para os animaizinhos que precisam de algum suporte ou atenção maior). Recomendo de olhos fechados.”'
   },
 ];
 
